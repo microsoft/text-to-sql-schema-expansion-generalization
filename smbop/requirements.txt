@@ -2,7 +2,7 @@ allennlp==2.4.0
 torch==1.8.1
 sh==1.13.1
 pandas==1.1.0
-numpy==1.18.5
+numpy==1.21.0
 anytree==2.8.0
 namegenerator==1.0.6
 overrides==3.1.0
