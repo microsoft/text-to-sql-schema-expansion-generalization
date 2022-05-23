@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zhaochen/sm-release/parser/mlruns/0/b5b54536689e42c5a08e19fb62d5877e/artifacts
+end_time: 1652135724977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: b5b54536689e42c5a08e19fb62d5877e
+run_uuid: b5b54536689e42c5a08e19fb62d5877e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652135724970
+status: 3
+tags: []
+user_id: zhaochen

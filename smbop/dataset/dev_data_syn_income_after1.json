@@ -1,0 +1,11008 @@
+[
+  {
+    "db_id": "income_107",
+    "question": "what is number of weeks in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_827",
+    "question": "what is weekly salary in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "weekly",
+      "salary",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_108",
+    "question": "what is wage in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "wage",
+      "salary"
+    ]
+  },
+  {
+    "db_id": "income_901",
+    "question": "what is saving account in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_907",
+    "question": "what is saving account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_423",
+    "question": "what is principle in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "principle",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "exclusions",
+      "principle"
+    ]
+  },
+  {
+    "db_id": "income_1004",
+    "question": "what is taxable income in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "taxable",
+      "income",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "taxable income",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_38",
+    "question": "what is base pay in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "base",
+      "pay",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base pay",
+      "final tax"
+    ]
+  },
+  {
+    "db_id": "income_455",
+    "question": "what is checking account in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c2 - c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_111",
+    "question": "what is income in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "income",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "bonus",
+      "income"
+    ]
+  },
+  {
+    "db_id": "income_701",
+    "question": "what is gross income in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "income",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "bank name",
+      "total income"
+    ]
+  },
+  {
+    "db_id": "income_72",
+    "question": "what is gross income in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "income",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "total income"
+    ]
+  },
+  {
+    "db_id": "income_349",
+    "question": "what is income in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "income",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "gross income",
+      "income"
+    ]
+  },
+  {
+    "db_id": "income_656",
+    "question": "what is account in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "account",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_144",
+    "question": "what is paycheck in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "paycheck",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "paycheck",
+      "payment"
+    ]
+  },
+  {
+    "db_id": "income_933",
+    "question": "what is gross income in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "income",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "gross income"
+    ]
+  },
+  {
+    "db_id": "income_436",
+    "question": "what is saving account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_631",
+    "question": "what is joint account in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_1020",
+    "question": "what is exclusions in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "exclusions",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "exclusions",
+      "base pay"
+    ]
+  },
+  {
+    "db_id": "income_640",
+    "question": "what is account in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "account",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_350",
+    "question": "what is number of weeks in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_437",
+    "question": "what is bonus in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "bonus",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "borrowing rate",
+      "bonus"
+    ]
+  },
+  {
+    "db_id": "income_946",
+    "question": "what is monthly salary in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_165",
+    "question": "what is stipend in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stipend",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "principle",
+      "stipend"
+    ]
+  },
+  {
+    "db_id": "income_231",
+    "question": "what is gross earnings in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "earnings",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest",
+      "gross earnings"
+    ]
+  },
+  {
+    "db_id": "income_233",
+    "question": "what is stock in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "principle",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_630",
+    "question": "what is banking account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "banking",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_427",
+    "question": "what is base salary in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "base",
+      "salary",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "base"
+    ]
+  },
+  {
+    "db_id": "income_318",
+    "question": "what is final tax in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "final",
+      "tax",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax",
+      "tax rate"
+    ]
+  },
+  {
+    "db_id": "income_147",
+    "question": "what is stipend in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stipend",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "extra",
+      "stipend"
+    ]
+  },
+  {
+    "db_id": "income_98",
+    "question": "what is stock in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "number of weeks",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_748",
+    "question": "what is number of weeks in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "stock",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_169",
+    "question": "what is interest rate in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "rate",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest rate",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_820",
+    "question": "what is saving account in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c2 - c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_819",
+    "question": "what is payment in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "payment",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "name",
+      "payment"
+    ]
+  },
+  {
+    "db_id": "income_65",
+    "question": "what is final tax in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "final",
+      "tax",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "prime interest rate",
+      "final tax"
+    ]
+  },
+  {
+    "db_id": "income_817",
+    "question": "what is payment in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "payment",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "payment",
+      "base pay"
+    ]
+  },
+  {
+    "db_id": "income_883",
+    "question": "what is saving account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_439",
+    "question": "what is base salary in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "base",
+      "salary",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "base salary"
+    ]
+  },
+  {
+    "db_id": "income_1009",
+    "question": "what is checking account in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 - c3 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "banking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_71",
+    "question": "what is tax rate in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "tax",
+      "rate",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "paid tax",
+      "tax rate"
+    ]
+  },
+  {
+    "db_id": "income_168",
+    "question": "what is income in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "income",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "income",
+      "taxable income"
+    ]
+  },
+  {
+    "db_id": "income_751",
+    "question": "what is numebr of months in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "numebr",
+      "of",
+      "months",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "numebr of months",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_445",
+    "question": "what is extra in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "extra",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "bank name",
+      "extra"
+    ]
+  },
+  {
+    "db_id": "income_760",
+    "question": "what is weekly salary in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "weekly",
+      "salary",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_265",
+    "question": "what is total income in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "total",
+      "income",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "total income"
+    ]
+  },
+  {
+    "db_id": "income_151",
+    "question": "what is income in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "income",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "income",
+      "gross earnings"
+    ]
+  },
+  {
+    "db_id": "income_153",
+    "question": "what is paycheck in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "paycheck",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base salary",
+      "paycheck"
+    ]
+  },
+  {
+    "db_id": "income_446",
+    "question": "what is joint account in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "bank name",
+      "joint account"
+    ]
+  },
+  {
+    "db_id": "income_785",
+    "question": "what is wage in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "paid tax",
+      "wage"
+    ]
+  },
+  {
+    "db_id": "income_228",
+    "question": "what is account in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "account",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 + c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_181",
+    "question": "what is principle in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "principle",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "principle"
+    ]
+  },
+  {
+    "db_id": "income_27",
+    "question": "what is extra in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "extra",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "extra"
+    ]
+  },
+  {
+    "db_id": "income_641",
+    "question": "what is banking account in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "banking",
+      "account",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_804",
+    "question": "what is checking account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c2 - c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "banking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_954",
+    "question": "what is borrowing rate in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "borrowing",
+      "rate",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "borrowing rate"
+    ]
+  },
+  {
+    "db_id": "income_614",
+    "question": "what is interest rate in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "rate",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest rate",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_1000",
+    "question": "what is exclusions in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "exclusions",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "stock",
+      "exclusions"
+    ]
+  },
+  {
+    "db_id": "income_97",
+    "question": "what is weekly salary in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "weekly",
+      "salary",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "weekly salary"
+    ]
+  },
+  {
+    "db_id": "income_812",
+    "question": "what is account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_527",
+    "question": "what is paid tax in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "paid",
+      "tax",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax rate",
+      "paid tax"
+    ]
+  },
+  {
+    "db_id": "income_348",
+    "question": "what is number of weeks in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base pay",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_902",
+    "question": "what is income in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "income",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "total income",
+      "income"
+    ]
+  },
+  {
+    "db_id": "income_167",
+    "question": "what is prime interest rate in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "prime",
+      "interest",
+      "rate",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "prime interest rate"
+    ]
+  },
+  {
+    "db_id": "income_293",
+    "question": "what is final tax in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "final",
+      "tax",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "final tax"
+    ]
+  },
+  {
+    "db_id": "income_182",
+    "question": "what is stock in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_815",
+    "question": "what is banking account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "banking",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 + c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_983",
+    "question": "what is compensation in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "compensation",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "compensation",
+      "paid tax"
+    ]
+  },
+  {
+    "db_id": "income_91",
+    "question": "what is tax rate in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "tax",
+      "rate",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax rate",
+      "tax"
+    ]
+  },
+  {
+    "db_id": "income_782",
+    "question": "what is interest in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_873",
+    "question": "what is interest in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_872",
+    "question": "what is monthly salary in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "weekly salary"
+    ]
+  },
+  {
+    "db_id": "income_344",
+    "question": "what is number of weeks in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "bank name",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_784",
+    "question": "what is interest rate in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "rate",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest rate",
+      "debt rate"
+    ]
+  },
+  {
+    "db_id": "income_1001",
+    "question": "what is principle in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "principle",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "total income",
+      "principle"
+    ]
+  },
+  {
+    "db_id": "income_232",
+    "question": "what is checking account in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "joint account"
+    ]
+  },
+  {
+    "db_id": "income_145",
+    "question": "what is numebr of months in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "numebr",
+      "of",
+      "months",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "final tax",
+      "numebr of months"
+    ]
+  },
+  {
+    "db_id": "income_574",
+    "question": "what is monthly salary in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c2 / c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "/",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "/",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "wage",
+      "numebr of months"
+    ]
+  },
+  {
+    "db_id": "income_1007",
+    "question": "what is checking account in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_99",
+    "question": "what is number of weeks in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "number of weeks",
+      "base"
+    ]
+  },
+  {
+    "db_id": "income_454",
+    "question": "what is base pay in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "base",
+      "pay",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax rate",
+      "base pay"
+    ]
+  },
+  {
+    "db_id": "income_866",
+    "question": "what is wage in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "taxable income",
+      "wage"
+    ]
+  },
+  {
+    "db_id": "income_947",
+    "question": "what is exclusions in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "exclusions",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "exclusions",
+      "debt"
+    ]
+  },
+  {
+    "db_id": "income_899",
+    "question": "what is saving account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "banking account"
+    ]
+  },
+  {
+    "db_id": "income_764",
+    "question": "what is number of weeks in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_234",
+    "question": "what is checking account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "banking account"
+    ]
+  },
+  {
+    "db_id": "income_326",
+    "question": "what is weekly salary in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "weekly",
+      "salary",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_1015",
+    "question": "what is joint account in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "joint account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_327",
+    "question": "what is extra in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "extra",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "gross earnings",
+      "extra"
+    ]
+  },
+  {
+    "db_id": "income_73",
+    "question": "what is emolument in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "emolument",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "emolument"
+    ]
+  },
+  {
+    "db_id": "income_762",
+    "question": "what is number of weeks in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "name",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_780",
+    "question": "what is prime interest rate in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "prime",
+      "interest",
+      "rate",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest",
+      "interest rate"
+    ]
+  },
+  {
+    "db_id": "income_518",
+    "question": "what is weekly salary in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "weekly",
+      "salary",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_489",
+    "question": "what is payment in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "payment",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "payment"
+    ]
+  },
+  {
+    "db_id": "income_464",
+    "question": "what is bonus in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "bonus",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "account",
+      "bonus"
+    ]
+  },
+  {
+    "db_id": "income_17",
+    "question": "what is salary in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "salary",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "salary",
+      "weekly salary"
+    ]
+  },
+  {
+    "db_id": "income_86",
+    "question": "what is tax percentage in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "tax",
+      "percentage",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "bank name",
+      "tax percentage"
+    ]
+  },
+  {
+    "db_id": "income_394",
+    "question": "what is annual percentage rate in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "annual",
+      "percentage",
+      "rate",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "annual percentage rate",
+      "tax percentage"
+    ]
+  },
+  {
+    "db_id": "income_183",
+    "question": "what is principle in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "principle",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "principle"
+    ]
+  },
+  {
+    "db_id": "income_154",
+    "question": "what is gross earnings in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "earnings",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "gross earnings"
+    ]
+  },
+  {
+    "db_id": "income_380",
+    "question": "what is stipend in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stipend",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "stipend",
+      "debt rate"
+    ]
+  },
+  {
+    "db_id": "income_340",
+    "question": "what is number of weeks in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_843",
+    "question": "what is number of weeks in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "number of weeks",
+      "debt rate"
+    ]
+  },
+  {
+    "db_id": "income_528",
+    "question": "what is weekly salary in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "weekly",
+      "salary",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_875",
+    "question": "what is principle in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "principle",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "principle"
+    ]
+  },
+  {
+    "db_id": "income_980",
+    "question": "what is interest rate in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "rate",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "interest rate"
+    ]
+  },
+  {
+    "db_id": "income_503",
+    "question": "what is tax percentage in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "tax",
+      "percentage",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "tax rate"
+    ]
+  },
+  {
+    "db_id": "income_441",
+    "question": "what is income in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "income",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "income",
+      "gross earnings"
+    ]
+  },
+  {
+    "db_id": "income_543",
+    "question": "what is payment in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "payment",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base pay",
+      "payment"
+    ]
+  },
+  {
+    "db_id": "income_853",
+    "question": "what is payment in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "payment",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "gross income",
+      "payment"
+    ]
+  },
+  {
+    "db_id": "income_230",
+    "question": "what is joint account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 + c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_149",
+    "question": "what is monthly salary in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "weekly salary"
+    ]
+  },
+  {
+    "db_id": "income_974",
+    "question": "what is principle in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "principle",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "account",
+      "principle"
+    ]
+  },
+  {
+    "db_id": "income_1018",
+    "question": "what is gross income in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "income",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "stock",
+      "gross income"
+    ]
+  },
+  {
+    "db_id": "income_587",
+    "question": "what is emolument in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "emolument",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "emolument"
+    ]
+  },
+  {
+    "db_id": "income_828",
+    "question": "what is exclusions in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "exclusions",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "final tax",
+      "exclusions"
+    ]
+  },
+  {
+    "db_id": "income_414",
+    "question": "what is extra in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "extra",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "extra",
+      "final tax"
+    ]
+  },
+  {
+    "db_id": "income_315",
+    "question": "what is paid tax in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "paid",
+      "tax",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "paid tax",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_177",
+    "question": "what is prime interest rate in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "prime",
+      "interest",
+      "rate",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "prime interest rate"
+    ]
+  },
+  {
+    "db_id": "income_1003",
+    "question": "what is saving account in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_999",
+    "question": "what is interest in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "stock",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_589",
+    "question": "what is tax percentage in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "tax",
+      "percentage",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax percentage",
+      "base"
+    ]
+  },
+  {
+    "db_id": "income_0",
+    "question": "what is stock in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_1019",
+    "question": "what is saving account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "account"
+    ]
+  },
+  {
+    "db_id": "income_648",
+    "question": "what is saving account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "account"
+    ]
+  },
+  {
+    "db_id": "income_758",
+    "question": "what is weekly salary in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "weekly",
+      "salary",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "wage"
+    ]
+  },
+  {
+    "db_id": "income_865",
+    "question": "what is prime interest rate in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "prime",
+      "interest",
+      "rate",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest rate",
+      "numebr of months"
+    ]
+  },
+  {
+    "db_id": "income_64",
+    "question": "what is stipend in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stipend",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "prime interest rate",
+      "stipend"
+    ]
+  },
+  {
+    "db_id": "income_1005",
+    "question": "what is saving account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_955",
+    "question": "what is checking account in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "banking account"
+    ]
+  },
+  {
+    "db_id": "income_869",
+    "question": "what is interest in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "exclusions",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_573",
+    "question": "what is final tax in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "final",
+      "tax",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "numebr of months",
+      "final tax"
+    ]
+  },
+  {
+    "db_id": "income_386",
+    "question": "what is base salary in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "base",
+      "salary",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_381",
+    "question": "what is numebr of months in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "numebr",
+      "of",
+      "months",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax percentage",
+      "numebr of months"
+    ]
+  },
+  {
+    "db_id": "income_258",
+    "question": "what is taxable income in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "taxable",
+      "income",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "taxable income",
+      "total income"
+    ]
+  },
+  {
+    "db_id": "income_220",
+    "question": "what is account in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "account",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_387",
+    "question": "what is numebr of months in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "numebr",
+      "of",
+      "months",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax percentage",
+      "numebr of months"
+    ]
+  },
+  {
+    "db_id": "income_632",
+    "question": "what is wage in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "wage"
+    ]
+  },
+  {
+    "db_id": "income_227",
+    "question": "what is total compensation in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "total",
+      "compensation",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax rate",
+      "total compensation"
+    ]
+  },
+  {
+    "db_id": "income_515",
+    "question": "what is final tax in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "final",
+      "tax",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "final tax"
+    ]
+  },
+  {
+    "db_id": "income_837",
+    "question": "what is number of weeks in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_557",
+    "question": "what is wage in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_754",
+    "question": "what is income in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "income",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "income"
+    ]
+  },
+  {
+    "db_id": "income_371",
+    "question": "what is monthly salary in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_838",
+    "question": "what is total compensation in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "total",
+      "compensation",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "total compensation"
+    ]
+  },
+  {
+    "db_id": "income_796",
+    "question": "what is checking account in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_508",
+    "question": "what is weekly salary in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "weekly",
+      "salary",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "weekly salary"
+    ]
+  },
+  {
+    "db_id": "income_657",
+    "question": "what is banking account in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "banking",
+      "account",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_1017",
+    "question": "what is checking account in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "banking account"
+    ]
+  },
+  {
+    "db_id": "income_282",
+    "question": "what is tax percentage in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "tax",
+      "percentage",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "annual percentage rate",
+      "tax percentage"
+    ]
+  },
+  {
+    "db_id": "income_822",
+    "question": "what is saving account in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_179",
+    "question": "what is interest in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax rate",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_556",
+    "question": "what is wage in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "salary"
+    ]
+  },
+  {
+    "db_id": "income_642",
+    "question": "what is joint account in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_859",
+    "question": "what is monthly salary in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "gross income"
+    ]
+  },
+  {
+    "db_id": "income_629",
+    "question": "what is account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_1023",
+    "question": "what is saving account in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "joint account"
+    ]
+  },
+  {
+    "db_id": "income_786",
+    "question": "what is interest in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest",
+      "debt rate"
+    ]
+  },
+  {
+    "db_id": "income_966",
+    "question": "what is checking account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_440",
+    "question": "what is joint account in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "joint account"
+    ]
+  },
+  {
+    "db_id": "income_208",
+    "question": "what is account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_753",
+    "question": "what is numebr of months in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "numebr",
+      "of",
+      "months",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "numebr of months",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_274",
+    "question": "what is gross earnings in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "earnings",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "street",
+      "gross earnings"
+    ]
+  },
+  {
+    "db_id": "income_826",
+    "question": "what is saving account in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c2 - c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "banking account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_105",
+    "question": "what is stipend in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stipend",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "taxable income",
+      "stipend"
+    ]
+  },
+  {
+    "db_id": "income_1021",
+    "question": "what is saving account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 - c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_633",
+    "question": "what is saving account in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_985",
+    "question": "what is exclusions in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "exclusions",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "exclusions",
+      "borrowing rate"
+    ]
+  },
+  {
+    "db_id": "income_393",
+    "question": "what is extra in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "extra",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "bonus"
+    ]
+  },
+  {
+    "db_id": "income_354",
+    "question": "what is base salary in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "base",
+      "salary",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base",
+      "weekly salary"
+    ]
+  },
+  {
+    "db_id": "income_150",
+    "question": "what is payment in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "payment",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "payment"
+    ]
+  },
+  {
+    "db_id": "income_855",
+    "question": "what is monthly salary in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "weekly salary"
+    ]
+  },
+  {
+    "db_id": "income_87",
+    "question": "what is stock in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "principle",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_854",
+    "question": "what is taxable income in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "taxable",
+      "income",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "gross income",
+      "taxable income"
+    ]
+  },
+  {
+    "db_id": "income_957",
+    "question": "what is checking account in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_484",
+    "question": "what is extra in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "extra",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "stock",
+      "extra"
+    ]
+  },
+  {
+    "db_id": "income_388",
+    "question": "what is wage in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "wage",
+      "debt rate"
+    ]
+  },
+  {
+    "db_id": "income_558",
+    "question": "what is monthly salary in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_453",
+    "question": "what is checking account in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_226",
+    "question": "what is checking account in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "account"
+    ]
+  },
+  {
+    "db_id": "income_247",
+    "question": "what is stock in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "taxable income",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_458",
+    "question": "what is base in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "base",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "name",
+      "base"
+    ]
+  },
+  {
+    "db_id": "income_297",
+    "question": "what is tax percentage in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "tax",
+      "percentage",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax rate",
+      "annual percentage rate"
+    ]
+  },
+  {
+    "db_id": "income_298",
+    "question": "what is extra in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "extra",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "final tax",
+      "extra"
+    ]
+  },
+  {
+    "db_id": "income_212",
+    "question": "what is saving account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "banking account"
+    ]
+  },
+  {
+    "db_id": "income_698",
+    "question": "what is gross earnings in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "earnings",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "bonus",
+      "gross earnings"
+    ]
+  },
+  {
+    "db_id": "income_314",
+    "question": "what is base salary in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "base",
+      "salary",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "base salary"
+    ]
+  },
+  {
+    "db_id": "income_961",
+    "question": "what is joint account in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "joint account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_757",
+    "question": "what is monthly salary in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_109",
+    "question": "what is number of weeks in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_836",
+    "question": "what is gross income in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "income",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "name",
+      "gross income"
+    ]
+  },
+  {
+    "db_id": "income_136",
+    "question": "what is stock in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax rate",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_936",
+    "question": "what is numebr of months in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "numebr",
+      "of",
+      "months",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt",
+      "numebr of months"
+    ]
+  },
+  {
+    "db_id": "income_175",
+    "question": "what is principle in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "principle",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "principle"
+    ]
+  },
+  {
+    "db_id": "income_229",
+    "question": "what is banking account in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "banking",
+      "account",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 + c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_658",
+    "question": "what is joint account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_839",
+    "question": "what is wage in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "bonus",
+      "wage"
+    ]
+  },
+  {
+    "db_id": "income_613",
+    "question": "what is paid tax in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "paid",
+      "tax",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "paid tax"
+    ]
+  },
+  {
+    "db_id": "income_211",
+    "question": "what is stock in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_709",
+    "question": "what is exclusions in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "exclusions",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax rate",
+      "exclusions"
+    ]
+  },
+  {
+    "db_id": "income_450",
+    "question": "what is saving account in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "account"
+    ]
+  },
+  {
+    "db_id": "income_788",
+    "question": "what is interest in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "total income",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_967",
+    "question": "what is interest in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_259",
+    "question": "what is stock in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "exclusions",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_444",
+    "question": "what is joint account in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 + c2 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_301",
+    "question": "what is income in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "income",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "income",
+      "gross income"
+    ]
+  },
+  {
+    "db_id": "income_511",
+    "question": "what is weekly salary in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "weekly",
+      "salary",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "weekly salary"
+    ]
+  },
+  {
+    "db_id": "income_249",
+    "question": "what is payment in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "payment",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base pay",
+      "payment"
+    ]
+  },
+  {
+    "db_id": "income_818",
+    "question": "what is banking account in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "banking",
+      "account",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "banking account"
+    ]
+  },
+  {
+    "db_id": "income_246",
+    "question": "what is gross earnings in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "earnings",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base pay",
+      "gross earnings"
+    ]
+  },
+  {
+    "db_id": "income_347",
+    "question": "what is stipend in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stipend",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "stipend",
+      "tax rate"
+    ]
+  },
+  {
+    "db_id": "income_857",
+    "question": "what is numebr of months in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "numebr",
+      "of",
+      "months",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "numebr of months",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_438",
+    "question": "what is joint account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "joint account"
+    ]
+  },
+  {
+    "db_id": "income_428",
+    "question": "what is prime interest rate in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "prime",
+      "interest",
+      "rate",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest",
+      "prime interest rate"
+    ]
+  },
+  {
+    "db_id": "income_1006",
+    "question": "what is exclusions in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "exclusions",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "exclusions",
+      "tax"
+    ]
+  },
+  {
+    "db_id": "income_221",
+    "question": "what is banking account in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "banking",
+      "account",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_814",
+    "question": "what is account in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "account",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 + c2 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_586",
+    "question": "what is principle in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "principle",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "joint account",
+      "principle"
+    ]
+  },
+  {
+    "db_id": "income_392",
+    "question": "what is monthly salary in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_443",
+    "question": "what is banking account in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "banking",
+      "account",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 + c2 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_345",
+    "question": "what is extra in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "extra",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "final tax",
+      "bonus"
+    ]
+  },
+  {
+    "db_id": "income_951",
+    "question": "what is checking account in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_674",
+    "question": "what is saving account in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "account"
+    ]
+  },
+  {
+    "db_id": "income_482",
+    "question": "what is stipend in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stipend",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "stipend",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_222",
+    "question": "what is joint account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_988",
+    "question": "what is interest in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest",
+      "prime interest rate"
+    ]
+  },
+  {
+    "db_id": "income_372",
+    "question": "what is wage in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "wage",
+      "numebr of months"
+    ]
+  },
+  {
+    "db_id": "income_858",
+    "question": "what is annual percentage rate in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "annual",
+      "percentage",
+      "rate",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "numebr of months",
+      "annual percentage rate"
+    ]
+  },
+  {
+    "db_id": "income_488",
+    "question": "what is taxable income in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "taxable",
+      "income",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "name",
+      "taxable income"
+    ]
+  },
+  {
+    "db_id": "income_953",
+    "question": "what is checking account in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "account"
+    ]
+  },
+  {
+    "db_id": "income_765",
+    "question": "what is interest in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest",
+      "prime interest rate"
+    ]
+  },
+  {
+    "db_id": "income_905",
+    "question": "what is joint account in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "joint account"
+    ]
+  },
+  {
+    "db_id": "income_937",
+    "question": "what is gross earnings in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "earnings",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt",
+      "gross earnings"
+    ]
+  },
+  {
+    "db_id": "income_756",
+    "question": "what is weekly salary in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "weekly",
+      "salary",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_257",
+    "question": "what is salary in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "salary",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_903",
+    "question": "what is saving account in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "joint account"
+    ]
+  },
+  {
+    "db_id": "income_912",
+    "question": "what is monthly salary in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "monthly",
+      "salary",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "monthly salary"
+    ]
+  },
+  {
+    "db_id": "income_594",
+    "question": "what is income in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "income",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "income",
+      "taxable income"
+    ]
+  },
+  {
+    "db_id": "income_777",
+    "question": "what is stipend in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stipend",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "annual percentage rate",
+      "stipend"
+    ]
+  },
+  {
+    "db_id": "income_542",
+    "question": "what is payment in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "payment",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "salary",
+      "payment"
+    ]
+  },
+  {
+    "db_id": "income_245",
+    "question": "what is wage in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base pay",
+      "wage"
+    ]
+  },
+  {
+    "db_id": "income_864",
+    "question": "what is emolument in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "emolument",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt",
+      "emolument"
+    ]
+  },
+  {
+    "db_id": "income_588",
+    "question": "what is prime interest rate in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "prime",
+      "interest",
+      "rate",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest",
+      "prime interest rate"
+    ]
+  },
+  {
+    "db_id": "income_328",
+    "question": "what is income in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "income",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "gross earnings",
+      "income"
+    ]
+  },
+  {
+    "db_id": "income_210",
+    "question": "what is joint account in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 + c3 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "+",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_778",
+    "question": "what is principle in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "principle",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "final tax",
+      "principle"
+    ]
+  },
+  {
+    "db_id": "income_824",
+    "question": "what is checking account in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "joint account"
+    ]
+  },
+  {
+    "db_id": "income_909",
+    "question": "what is checking account in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "checking",
+      "account",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "joint account"
+    ]
+  },
+  {
+    "db_id": "income_973",
+    "question": "what is joint account in 2012 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2012",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2012\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2012\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_960",
+    "question": "what is annual percentage rate in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "annual",
+      "percentage",
+      "rate",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "emolument",
+      "annual percentage rate"
+    ]
+  },
+  {
+    "db_id": "income_911",
+    "question": "what is saving account in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c3 - c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "-",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "account"
+    ]
+  },
+  {
+    "db_id": "income_266",
+    "question": "what is exclusions in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "exclusions",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "exclusions",
+      "final tax"
+    ]
+  },
+  {
+    "db_id": "income_852",
+    "question": "what is total income in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "total",
+      "income",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "total income",
+      "exclusions"
+    ]
+  },
+  {
+    "db_id": "income_891",
+    "question": "what is saving account in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "banking account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_255",
+    "question": "what is gross income in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "income",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "gross earnings",
+      "gross income"
+    ]
+  },
+  {
+    "db_id": "income_823",
+    "question": "what is emolument in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "emolument",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest",
+      "emolument"
+    ]
+  },
+  {
+    "db_id": "income_166",
+    "question": "what is stock in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "tax percentage",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_949",
+    "question": "what is taxable income in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "taxable",
+      "income",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "taxable income",
+      "gross income"
+    ]
+  },
+  {
+    "db_id": "income_362",
+    "question": "what is base salary in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "base",
+      "salary",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base salary",
+      "weekly salary"
+    ]
+  },
+  {
+    "db_id": "income_504",
+    "question": "what is number of weeks in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "taxable income",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_840",
+    "question": "what is taxable income in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "taxable",
+      "income",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "bonus",
+      "taxable income"
+    ]
+  },
+  {
+    "db_id": "income_491",
+    "question": "what is salary in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "salary",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "salary"
+    ]
+  },
+  {
+    "db_id": "income_637",
+    "question": "what is saving account in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c2 - c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "-",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "joint account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_939",
+    "question": "what is gross earnings in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "gross",
+      "earnings",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "checking account",
+      "gross earnings"
+    ]
+  },
+  {
+    "db_id": "income_935",
+    "question": "what is taxable income in 2014 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "taxable",
+      "income",
+      "in",
+      "2014",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2014\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2014\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "taxable income",
+      "income"
+    ]
+  },
+  {
+    "db_id": "income_456",
+    "question": "what is paycheck in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "paycheck",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "monthly salary",
+      "paycheck"
+    ]
+  },
+  {
+    "db_id": "income_90",
+    "question": "what is stock in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "principle",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_224",
+    "question": "what is saving account in 2015 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "saving",
+      "account",
+      "in",
+      "2015",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2015\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2015\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "account",
+      "saving account"
+    ]
+  },
+  {
+    "db_id": "income_162",
+    "question": "what is stock in 2017 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2017",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2017\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2017\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "taxable income",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_666",
+    "question": "what is account in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "account",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "account"
+    ]
+  },
+  {
+    "db_id": "income_134",
+    "question": "what is stock in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "stock",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "stock"
+    ]
+  },
+  {
+    "db_id": "income_984",
+    "question": "what is borrowing rate in 2013 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "borrowing",
+      "rate",
+      "in",
+      "2013",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2013\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2013\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "debt rate",
+      "borrowing rate"
+    ]
+  },
+  {
+    "db_id": "income_968",
+    "question": "what is banking account in 2016 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "banking",
+      "account",
+      "in",
+      "2016",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2016\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2016\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "banking account"
+    ]
+  },
+  {
+    "db_id": "income_442",
+    "question": "what is account in 2010 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "account",
+      "in",
+      "2010",
+      "?"
+    ],
+    "query": "SELECT c3 + c2 FROM W WHERE c1 = \"2010\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2010\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "+",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "saving account",
+      "checking account"
+    ]
+  },
+  {
+    "db_id": "income_598",
+    "question": "what is interest in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "interest",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "interest rate",
+      "interest"
+    ]
+  },
+  {
+    "db_id": "income_435",
+    "question": "what is bonus in 2018 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "bonus",
+      "in",
+      "2018",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2018\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2018\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "name",
+      "bonus"
+    ]
+  },
+  {
+    "db_id": "income_645",
+    "question": "what is joint account in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "joint",
+      "account",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base salary",
+      "joint account"
+    ]
+  },
+  {
+    "db_id": "income_987",
+    "question": "what is exclusions in 2019 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "exclusions",
+      "in",
+      "2019",
+      "?"
+    ],
+    "query": "SELECT c2 FROM W WHERE c1 = \"2019\"",
+    "query_toks": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2019\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c2",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "exclusions",
+      "paid tax"
+    ]
+  },
+  {
+    "db_id": "income_813",
+    "question": "what is number of weeks in 2011 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "number",
+      "of",
+      "weeks",
+      "in",
+      "2011",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2011\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2011\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "base pay",
+      "number of weeks"
+    ]
+  },
+  {
+    "db_id": "income_825",
+    "question": "what is wage in 2020 ?",
+    "question_toks": [
+      "what",
+      "is",
+      "wage",
+      "in",
+      "2020",
+      "?"
+    ],
+    "query": "SELECT c3 FROM W WHERE c1 = \"2020\"",
+    "query_toks": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "\"2020\""
+    ],
+    "query_toks_no_value": [
+      "SELECT",
+      "c3",
+      "FROM",
+      "W",
+      "WHERE",
+      "c1",
+      "=",
+      "value"
+    ],
+    "raw_columns": [
+      "year",
+      "weekly salary",
+      "wage"
+    ]
+  }
+]

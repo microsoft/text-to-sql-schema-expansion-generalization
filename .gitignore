@@ -51,6 +51,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+# Visual Studio Code
+.history/
+
 # Translations
 *.mo
 *.pot
